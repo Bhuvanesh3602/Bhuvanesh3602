@@ -50,18 +50,14 @@ AI & Data Science Engineer (In Progress) • Problem Solver • ML Practitioner
 🔗 https://leetcode.com/u/senthilandavar666/
 </p>
 
-<p align="center" style="margin:6px 0;">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=senthilandavar666&theme=dark" />
-</p>
+
 
 <p style="margin:4px 0;">
 <strong>📈 Kaggle</strong> — Machine Learning Practice<br/>
 🔗 https://www.kaggle.com/bhuvaneshs1337
 </p>
 
-<p align="center" style="margin:6px 0;">
-  <img src="https://kaggle-card.vercel.app/api?username=bhuvaneshs1337" />
-</p>
+
 
 ---
 
