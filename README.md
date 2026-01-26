@@ -1,131 +1,132 @@
-<!-- ================= PROFILE README ================= -->
+<!-- ===================== PROFILE README ===================== -->
 
-<h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
-<h3 align="center">AI & Data Science Student | Data Scientist in Progress | ML • DSA • Cloud</h3>
+<h1 align="center">Bhuvanesh S</h1>
+<h3 align="center">
+AI & Data Science Engineer in Progress • Strong Problem Solver • Machine Learning Practitioner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;LeetCode+%26+Kaggle+Learner;Consistent+Daily+Improvement" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=760&lines=Strong+Problem+Solving+Mindset;Data+Structures+%26+Algorithms;Machine+Learning+%26+AI;LeetCode+%7C+Kaggle+Practitioner;Focused+on+Engineering+Excellence" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 First-year **Artificial Intelligence & Data Science** student  
-- 🚀 Aspiring **Data Science Engineer**
-- 🧠 Passionate about **Machine Learning, Deep Learning & DSA**
-- 🧩 Actively practicing problems on **LeetCode**
-- 📊 Learning real-world ML through **Kaggle**
-- 🏆 Goal: Crack top tech companies & excel in hackathons  
-- 📍 India
+## Professional Summary
+- Artificial Intelligence & Data Science student with a **problem-solving–first approach**
+- Strong foundation in **Data Structures, Algorithms, and logical reasoning**
+- Hands-on exposure to **Machine Learning pipelines and data analysis**
+- Actively practicing on **LeetCode (DSA)** and **Kaggle (ML & Data)**
+- Focused on building **scalable, real-world engineering solutions**
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=light" />
 </p>
 
-### 📊 Data Science & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+### Data Science & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=light" />
 </p>
 
-### 🤖 AI & Deep Learning (Learning)
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+### Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=light" />
 </p>
 
-### 🌐 Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+### Tools & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws&theme=light" />
 </p>
 
-### ☁️ Cloud & Tools
-<p>
-  <img src="https://img.shields.io/badge/AWS-Beginner-232F3E?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git"/>
-</p>
+> ℹ️ Icons are **rounded / radius-based** for a clean professional look (not box-style).
 
 ---
 
-## 🧩 Problem Solving & Practice
+## Problem Solving
 
-### 🟡 LeetCode
-- Practicing **Data Structures & Algorithms**
-- Focus areas: Arrays, Strings, Recursion, Trees, Graphs
-- Goal: Strong problem-solving mindset
+### LeetCode — Data Structures & Algorithms
+**Bhuvanesh S | Problem Solving Profile**
 
-<p>
+🔗 https://leetcode.com/u/senthilandavar666/
+
+<p align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=senthilandavar666&theme=dark" />
 </p>
 
+**Primary Focus Areas**
+- Arrays & Strings  
+- Recursion & Backtracking  
+- Trees & Graphs  
+- Two Pointers & Sliding Window  
+
 ---
 
-### 📊 Kaggle
-- Learning **data analysis & ML pipelines**
-- Hands-on with **datasets, notebooks & competitions**
-- Focus: Feature engineering & model improvement
+### Kaggle — Machine Learning Practice
+**Bhuvanesh S | Applied Machine Learning**
 
-<p>
-  <img src="https://kaggle-card.vercel.app/api?username=Bhuvanesh3602" />
+🔗 https://www.kaggle.com/bhuvaneshs1337
+
+<p align="center">
+  <img src="https://kaggle-card.vercel.app/api?username=bhuvaneshs1337" />
 </p>
 
----
-
-## 🚀 Featured Projects
-- 🆘 **Emergency Aid Navigator**  
-  AI-based emergency service locator system.
-
-- 🩺 **Diabetes Prediction System**  
-  ML model integrated using Django / FastAPI.
-
-- 🔐 **Behavior-Based Intrusion Detection System**  
-  Detects abnormal user behavior using anomaly detection.
+**Hands-on Experience**
+- Data preprocessing & feature engineering
+- Model training and evaluation
+- Exploratory data analysis
+- Notebook-driven experimentation
 
 ---
 
-## 📚 Currently Learning
-- Advanced DSA (LeetCode)
+## Selected Projects
+- **Emergency Aid Navigator**  
+  AI-powered system to locate and connect with nearby emergency services.
+
+- **Diabetes Prediction System**  
+  End-to-end ML solution deployed using Django / FastAPI.
+
+- **Behavior-Based Intrusion Detection System**  
+  Anomaly detection using behavioral patterns instead of signatures.
+
+---
+
+## Currently Strengthening
+- Advanced Data Structures & Algorithms
 - Machine Learning & Deep Learning
-- System Design (HLD & LLD)
-- AWS Cloud Fundamentals
+- System Design fundamentals (HLD & LLD)
+- AWS Cloud fundamentals
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh3602&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh3602&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-<p>
-  <a href="mailto:bhuvanesh.s2024aids@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+## Contribution Activity (3D Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhuvanesh3602/Bhuvanesh3602/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌟 Philosophy
-> **"Small consistent improvements every day lead to massive success."**
+## Contact
+📧 bhuvanesh.s2024aids@sece.ac.in  
+🔗 https://github.com/Bhuvanesh3602  
 
-⭐ If you like my work, feel free to star ⭐ my repositories!
+---
+
+### Engineering Philosophy
+> **“Problem solving ability defines an engineer more than tools or frameworks.”**
+
+⭐ Repositories reflect continuous learning and disciplined practice.
