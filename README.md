@@ -38,7 +38,7 @@ AI & Data Science Engineer (In Progress) • Problem Solver • ML Practitioner
 <h3 style="color:#00C9FF; margin-bottom:6px;">🛠️ Tech Stack</h3>
 
 <p align="center" style="margin:6px 0;">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,numpy,pandas,sklearn,django,flask,fastapi,git,github,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,tailwind,numpy,pandas,sklearn,django,flask,fastapi,git,github,aws&theme=light" />
 </p>
 
 ---
@@ -47,31 +47,27 @@ AI & Data Science Engineer (In Progress) • Problem Solver • ML Practitioner
 
 <p style="margin:4px 0;">
 <strong>🔥 LeetCode</strong> — <span style="color:#00ADB5;"><strong>Top 25% Global</strong></span><br/>
-🔗 https://leetcode.com/u/senthilandavar666/
+🔗 <a href="https://leetcode.com/u/senthilandavar666/" target="_blank">Bhuvanesh on LeetCode</a>
 </p>
-
-
 
 <p style="margin:4px 0;">
-<strong>📈 Kaggle</strong> — Machine Learning Practice<br/>
-🔗 https://www.kaggle.com/bhuvaneshs1337
+<strong>📈 Kaggle</strong> — Machine Learning Practitioner<br/>
+🔗 <a href="https://www.kaggle.com/bhuvaneshs1337" target="_blank">Bhuvanesh on Kaggle</a>
 </p>
-
-
 
 ---
 
 <h3 style="color:#00C9FF; margin-bottom:6px;">🚀 Projects</h3>
 
 <ul style="margin-top:0;">
-  <li><strong>Emergency Aid Navigator</strong> – AI system for locating nearby emergency services</li>
-  <li><strong>Diabetes Prediction System</strong> – End-to-end ML deployment (Django / FastAPI)</li>
-  <li><strong>Behavior-Based IDS</strong> – Anomaly detection using behavioral analysis</li>
+  <li><strong>Emergency Aid Navigator</strong> – AI-powered system for locating nearby emergency services</li>
+  <li><strong>Diabetes Prediction System</strong> – End-to-end ML pipeline with Django & FastAPI</li>
+  <li><strong>Behavior-Based Intrusion Detection System</strong> – Anomaly detection using behavioral analytics</li>
 </ul>
 
 ---
 
-<h3 style="color:#F08A5D; margin-bottom:6px;">📊 GitHub</h3>
+<h3 style="color:#F08A5D; margin-bottom:6px;">📊 GitHub Stats</h3>
 
 <p align="center" style="margin:6px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh3602&show_icons=true&theme=tokyonight" />
