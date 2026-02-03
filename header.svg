@@ -1,0 +1,73 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#gradient1)"/>
+  
+  <!-- Animated circles -->
+  <circle cx="100" cy="100" r="20" fill="url(#gradient2)" opacity="0.7">
+    <animate attributeName="r" values="20;30;20" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="700" cy="50" r="15" fill="#ffffff" opacity="0.5">
+    <animate attributeName="cy" values="50;150;50" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="650" cy="150" r="25" fill="url(#gradient2)" opacity="0.6">
+    <animate attributeName="r" values="25;35;25" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="650;680;650" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Main text -->
+  <text x="400" y="80" font-family="Arial, sans-serif" font-size="36" font-weight="bold" 
+        text-anchor="middle" fill="#ffffff" filter="url(#glow)">
+    Welcome to My Profile
+    <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="120" font-family="Arial, sans-serif" font-size="18" 
+        text-anchor="middle" fill="#ffffff" opacity="0.9">
+    Full Stack Developer & Tech Enthusiast
+    <animate attributeName="opacity" values="0.9;0.6;0.9" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Animated line -->
+  <line x1="200" y1="140" x2="600" y2="140" stroke="#ffffff" stroke-width="2" opacity="0.8">
+    <animate attributeName="stroke-dasharray" values="0,400;400,0;0,400" dur="4s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Floating particles -->
+  <circle cx="150" cy="50" r="3" fill="#ffffff" opacity="0.8">
+    <animate attributeName="cy" values="50;180;50" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="550" cy="30" r="2" fill="#ffffff" opacity="0.6">
+    <animate attributeName="cy" values="30;170;30" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="550;580;550" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="300" cy="170" r="4" fill="url(#gradient2)" opacity="0.7">
+    <animate attributeName="cy" values="170;40;170" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;6;4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
