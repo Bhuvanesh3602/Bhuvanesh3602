@@ -1,94 +1,90 @@
-<!-- ===================== GITHUB PROFILE README ===================== -->
-
-<div style="font-family:'Oswald','Segoe UI','Roboto','Arial',sans-serif; letter-spacing:0.3px;">
-
-<h1 align="center" style="font-weight:700; letter-spacing:2px; color:#00C9FF; margin-bottom:4px;">
-Bhuvanesh S
+<h1 align="center">
+  🚀 Bhuvanesh S
 </h1>
 
-<p align="center" style="font-weight:500; color:#7F7FD5; margin-top:0;">
+<h3 align="center">
 AI & Data Science Engineer (In Progress) • Problem Solver • ML Practitioner
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&width=850&size=22&duration=3000&pause=800&color=00ADB5&lines=Problem-Solving+First+Mindset;DSA+%7C+Machine+Learning+%7C+AI;LeetCode+Top+25%25+Global;Kaggle+ML+Practitioner;Building+Real-World+Systems" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 AI & Data Science undergraduate
+- 🧩 Strong foundation in **Data Structures & Algorithms**
+- 🤖 Hands-on experience with **Machine Learning & AI pipelines**
+- 🏆 **LeetCode Top 25% globally**
+- 📊 Active **Kaggle ML Practitioner**
+- 🛠 Focused on **scalable, production-ready systems**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,tailwind,numpy,pandas,sklearn,django,flask,fastapi,git,github,aws" />
+</p>
+
+---
+
+## 🧩 Problem Solving & Platforms
+
+### 🔥 LeetCode  
+🏅 **Top 25% Global**  
+🔗 https://leetcode.com/u/senthilandavar666/
+
+### 📈 Kaggle  
+💡 Machine Learning Practitioner  
+🔗 https://www.kaggle.com/bhuvaneshs1337
+
+---
+
+## 🚀 Projects
+
+- **🆘 Emergency Aid Navigator**  
+  AI-powered system to locate and connect with nearby emergency services
+
+- **🩺 Diabetes Prediction System**  
+  End-to-end ML pipeline using Django & FastAPI
+
+- **🛡 Behavior-Based Intrusion Detection System**  
+  Anomaly detection using behavioral analytics
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh3602&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  center=true&
-  vCenter=true&
-  width=820&
-  size=22&
-  duration=2800&
-  pause=700&
-  color=00ADB5&
-  lines=Problem+Solving+First+Mindset;DSA+%7C+Machine+Learning+%7C+AI;LeetCode+Top+25%25+Global;Kaggle+ML+Practitioner;Building+Real-World+Systems" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh3602&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 style="color:#F08A5D; margin-bottom:6px;">🧠 Summary</h3>
+## 🐍 Contribution Snake
 
-<ul style="margin-top:0;">
-  <li>AI & Data Science undergraduate with a <strong>strong problem-solving foundation</strong></li>
-  <li>Proficient in <strong>DSA, logical reasoning, and ML workflows</strong></li>
-  <li>Active on <strong>LeetCode (Top 25%)</strong> & <strong>Kaggle</strong></li>
-  <li>Focused on <strong>scalable, engineering-grade solutions</strong></li>
-</ul>
+> ⚠️ **Important:** This works only after setting up GitHub Actions (steps below)
 
----
-
-<h3 style="color:#00C9FF; margin-bottom:6px;">🛠️ Tech Stack</h3>
-
-<p align="center" style="margin:6px 0;">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,tailwind,numpy,pandas,sklearn,django,flask,fastapi,git,github,aws&theme=light" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhuvanesh3602/Bhuvanesh3602/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<h3 style="color:#F08A5D; margin-bottom:6px;">🧩 Problem Solving</h3>
+## 📬 Contact
 
-<p style="margin:4px 0;">
-<strong>🔥 LeetCode</strong> — <span style="color:#00ADB5;"><strong>Top 25% Global</strong></span><br/>
-🔗 <a href="https://leetcode.com/u/senthilandavar666/" target="_blank">Bhuvanesh on LeetCode</a>
-</p>
-
-<p style="margin:4px 0;">
-<strong>📈 Kaggle</strong> — Machine Learning Practitioner<br/>
-🔗 <a href="https://www.kaggle.com/bhuvaneshs1337" target="_blank">Bhuvanesh on Kaggle</a>
-</p>
+📧 **Email:** bhuvanesh.s2024aids@sece.ac.in  
+🔗 **GitHub:** https://github.com/Bhuvanesh3602  
 
 ---
 
-<h3 style="color:#00C9FF; margin-bottom:6px;">🚀 Projects</h3>
-
-<ul style="margin-top:0;">
-  <li><strong>Emergency Aid Navigator</strong> – AI-powered system for locating nearby emergency services</li>
-  <li><strong>Diabetes Prediction System</strong> – End-to-end ML pipeline with Django & FastAPI</li>
-  <li><strong>Behavior-Based Intrusion Detection System</strong> – Anomaly detection using behavioral analytics</li>
-</ul>
-
----
-
-<h3 style="color:#F08A5D; margin-bottom:6px;">📊 GitHub Stats</h3>
-
-<p align="center" style="margin:6px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh3602&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <i>“Strong engineers are defined by how they solve problems.”</i>
 </p>
-
-<p align="center" style="margin:6px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh3602&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center" style="margin:6px 0;">
-  <img src="https://raw.githubusercontent.com/Bhuvanesh3602/Bhuvanesh3602/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center" style="margin-top:10px; color:#00ADB5; font-weight:600;">
-“Strong engineers are defined by how they solve problems.”
-</p>
-
-<p align="center" style="font-size:13px; color:#888;">
-📧 bhuvanesh.s2024aids@sece.ac.in | 🔗 github.com/Bhuvanesh3602
-</p>
-
-</div>
