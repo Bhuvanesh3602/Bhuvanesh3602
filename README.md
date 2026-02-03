@@ -73,11 +73,6 @@
 
 </div>
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 560527b8351d6ab72a6d271b5bac57e289952bb3
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvanesh3602&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
