@@ -1,4 +1,3 @@
-
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Bhuvanesh!
 
 <div align="center">
@@ -74,22 +73,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh3602&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh3602&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh3602&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhuvanesh3602&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvanesh3602&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
@@ -144,4 +127,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhuvanesh3602/Bhuvanesh3602/output/snake.svg">
   </picture>
 </div>
-
