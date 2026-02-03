@@ -56,7 +56,7 @@
 
 ### 🏆 Competitive Programming Stats
 
-<a href="https://leetcode.com/Bhuvanesh3602">
+<a href="https://leetcode.com/u/senthilandavar666/">
   <img src="https://img.shields.io/badge/LeetCode-224%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.codechef.com/users/bhuvanesh3602">
@@ -117,7 +117,7 @@
   <a href="https://github.com/Bhuvanesh3602">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/Bhuvanesh3602">
+  <a href="https://leetcode.com/u/senthilandavar666/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.kaggle.com/bhuvanesh3602">
