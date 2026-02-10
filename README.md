@@ -94,7 +94,7 @@
 
 </div>
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me.
 
 <div align="center">
   <a href="https://github.com/Bhuvanesh3602">
