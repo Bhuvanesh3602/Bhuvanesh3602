@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on **ML/AI Projects & Open Source**
 - 💬 Ask me about **Machine Learning, Data Science, Competitive Programming**
 - 📫 How to reach me: **bhuvanesh3602@gmail.com**
-- ⚡ Fun fact: **Solved 800+ coding problems across platforms!**
+- ⚡ Fun fact: **Solved 1500+ coding problems across platforms!**
 
 <br clear="both">
 
